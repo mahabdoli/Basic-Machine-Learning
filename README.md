@@ -3,6 +3,7 @@ Python implementation of machine learning algorithms mostly from scratch for Mac
 1. Support Vector Machine
 2. Bayesian Classifiers
 3. K-means Clustering
+
 Other algorithms will be added in the future.
 
 ## Support Vector Machine  
